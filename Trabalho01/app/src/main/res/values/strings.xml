@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trabalho01</string>
+
+    <string-array name="times">
+        <item>Barcelona</item>
+        <item>Ajax</item>
+        <item>Juventus</item>
+        <item>Liverpool</item>
+    </string-array>
+
+</resources>
